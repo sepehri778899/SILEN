@@ -1,0 +1,6 @@
+{
+  "name": "استودیو کودک سیلن | Silen Kids",
+  "description": "وبسایت تخصصی آتلیه کودک، نوزاد و بارداری سیلن کیدز تهران؛ رزرو آنلاین، گالری نمونه کارها و سفارش چاپ عکس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
